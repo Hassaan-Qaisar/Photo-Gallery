@@ -62,10 +62,11 @@ The goal of the project is to create a scalable and efficient photo gallery appl
 
 ## Contributors
 
+- Hassaan Qaisar
 - Yasir Ghaffar
 - AbuBakr Javed
 - Rana Mahad
 
 ## Acknowledgements
 
-Special thanks to Qaisar Riaz for providing the project requirements and guidance throughout the development process.
+Special thanks to Sir Qaisar Riaz for providing the project requirements and guidance throughout the development process.
